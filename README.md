@@ -2,6 +2,10 @@
 
 A minimal, single-file implementation of a diffusion model in Rust using pure Rust crates. This project demonstrates the forward and reverse diffusion processes, a simplified U-Net denoiser, and a basic training loop for CIFAR-10 (placeholders).
 
+_____________
+## ⚠ Needs Proper Testing, Use cautiously. ⚠
+_____________
+
 ## Features
 
 - Linear beta scheduler for diffusion
